@@ -7,7 +7,7 @@
 * Falcon
 * Hank Pym
 * Hawkeye
-* Hulk
+* Hulk Sin Conciencia
 * Iron Man
 * Luke Cage
 * QuickSilver
@@ -17,3 +17,4 @@
 * Vision
 * Wasp
 * Antman
+* Nick Fury
